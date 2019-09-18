@@ -1,0 +1,888 @@
+Age	Fare	Name	Parents/Children Aboard	Pclass	Sex	Siblings/Spouses Aboard	Survived
+22.0	7.25	Mr. Owen Harris Braund	0	3	male	1	0
+38.0	71.2833	Mrs. John Bradley (Florence Briggs Thayer) Cumings	0	1	female	1	1
+4.0	16.7	Miss. Marguerite Rut Sandstrom	1	3	female	1	1
+29.0	7.8958	Mr. Pastcho Petroff	0	3	male	0	0
+21.0	77.2875	Mr. Richard Frasar White	1	1	male	0	0
+33.0	8.6542	Mr. Gustaf Joel Johansson	0	3	male	0	0
+37.0	7.925	Mr. Anders Vilhelm Gustafsson	0	3	male	2	0
+28.0	7.8958	Mr. Stoytcho Mionoff	0	3	male	0	0
+21.0	7.65	Miss. Anna Kristine Salkjelsvik	0	3	female	0	1
+29.0	7.775	Mr. Albert Johan Moss	0	3	male	0	1
+38.0	7.8958	Mr. Tido Rekic	0	3	male	0	0
+28.0	24.15	Miss. Bertha Moran	0	3	female	1	1
+47.0	52.0	Mr. Walter Chamberlain Porter	0	1	male	0	0
+58.0	26.55	Miss. Elizabeth Bonnell	0	1	female	0	1
+14.5	14.4542	Miss. Hileni Zabour	0	3	female	1	0
+22.0	8.05	Mr. David John Barton	0	3	male	0	0
+20.0	9.825	Miss. Katriina Jussila	0	3	female	1	0
+17.0	14.4583	Miss. Malake Attalah	0	3	female	0	0
+21.0	7.925	Mr. Edvard Pekoniemi	0	3	male	0	0
+70.5	7.75	Mr. Patrick Connors	0	3	male	0	0
+29.0	21.0	Mr. William John Robert Turpin	0	2	male	1	0
+24.0	247.5208	Mr. Quigg Edmond Baxter	1	1	male	0	0
+2.0	31.275	Miss. Ellis Anna Maria Andersson	2	3	female	4	0
+21.0	73.5	Mr. Stanley George Hickman	0	2	male	2	0
+20.0	8.05	Mr. William Henry Saundercock	0	3	male	0	0
+19.0	8.05	Mr. Leonard Charles Moore	0	3	male	0	0
+32.5	30.0708	Mr. Nicholas Nasser	0	2	male	1	0
+32.5	13.0	Miss. Susan Webber	0	2	female	0	1
+54.0	77.2875	Mr. Percival Wayland White	1	1	male	0	0
+12.0	11.2417	Master. Elias Nicola-Yarred	0	3	male	1	1
+19.0	7.75	Mr. Martin McMahon	0	3	male	0	0
+24.0	7.1417	Mr. Fridtjof Arne Madsen	0	3	male	0	1
+2.0	22.3583	Miss. Anna Peter	1	3	female	1	1
+45.0	6.975	Mr. Johan Ekstrom	0	3	male	0	0
+33.0	7.8958	Mr. Jozef Drazenoic	0	3	male	0	0
+39.0	31.275	Mr. Anders Johan Andersson	5	3	male	1	0
+20.0	7.05	Mr. Domingos Fernandeo Coelho	0	3	male	0	0
+47.0	14.5	Mrs. Alexander A (Grace Charity Laury) Robins	0	3	female	1	0
+29.0	26.0	Mrs. Leopold (Mathilde Francoise Pede) Weisz	0	2	female	1	1
+25.0	13.0	Mr. Samuel James Hayden Sobey	0	2	male	0	0
+23.0	15.0458	Mr. Emile Richard	0	2	male	0	0
+19.0	26.2833	Miss. Helen Monypeny Newsom	2	1	female	0	1
+37.0	53.1	Mr. Jacques Heath Futrelle	0	1	male	1	0
+16.0	9.2167	Mr. Olaf Elon Osen	0	3	male	0	0
+24.0	79.2	Mr. Victor Giglio	0	1	male	0	0
+40.0	15.2458	Mrs. Joseph (Sultana) Boulos	2	3	female	0	0
+14.0	7.8542000000000005	Miss. Hulda Amanda Adolfina Vestrom	0	3	female	0	0
+22.0	7.75	Miss. Anna Sofia Nysten	0	3	female	0	1
+24.0	15.85	Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen	0	3	female	1	1
+19.0	6.75	Mr. Jeremiah Burke	0	3	male	0	0
+18.0	11.5	Mr. Edgardo Samuel Andrew	0	2	male	0	0
+19.0	36.75	Mr. Joseph Charles Nicholls	1	2	male	1	0
+27.0	7.7958	Mr. August Edvard Andersson	0	3	male	0	1
+9.0	34.375	Miss. Robina Maggie Ford	2	3	female	2	0
+36.5	26.0	Mr. Michel Navratil	2	2	male	0	0
+42.0	13.0	Rev. Thomas Roussel Davids Byles	0	2	male	0	0
+51.0	12.525	Rev. Robert James Bateman	0	2	male	0	0
+55.0	16.0	Mrs. (Mary D Kingcome) Hewlett	0	2	female	0	1
+22.0	66.6	Mrs. Thomas (Edith Wearne) Pears	0	1	female	1	1
+55.5	8.05	Mr. Alfonzo Meo	0	3	male	0	0
+40.5	14.5	Mr. Austin Blyler van Billiard	2	3	male	0	0
+27.0	7.3125	Mr. Ole Martin Olsen	0	3	male	0	0
+51.0	61.3792	Mr. Charles Duane Williams	1	1	male	0	0
+16.0	7.7333	Miss. Katherine Gilnagh	0	3	female	0	1
+30.0	8.05	Mr. Harry Corn	0	3	male	0	0
+37.0	8.6625	Mr. Mile Smiljanic	0	3	male	0	0
+5.0	69.55	Master. Thomas Henry Sage	2	3	male	8	0
+44.0	16.1	Mr. John Hatfield Cribb	1	3	male	0	0
+2.0	29.125	Master. Eugene Rice	1	3	male	4	0
+40.0	15.75	Mrs. James (Elizabeth Inglis Milne) Watt	0	2	female	0	1
+26.0	7.775	Mr. John Viktor Bengtsson	0	3	male	0	0
+17.0	8.6625	Mr. Jovo Calic	0	3	male	0	0
+1.0	39.6875	Master. Eino Viljami Panula	1	3	male	4	0
+9.0	20.525	Master. Frank John William Goldsmith	2	3	male	0	1
+48.0	55.0	Mrs. (Edith Martha Bowerman) Chibnall	1	1	female	0	1
+45.0	27.9	Mrs. William (Anna Bernhardina Karlsson) Skoog	4	3	female	1	0
+60.0	25.925	Mr. John D Baumann	0	1	male	0	0
+28.0	56.4958	Mr. Lee Ling	0	3	male	0	0
+61.0	33.5	Mr. Wyckoff Van der hoef	0	1	male	0	0
+23.0	13.0	Mr. Charles Eugene Williams	0	2	male	0	1
+4.0	29.125	Master. Arthur Rice	1	3	male	4	0
+1.0	11.1333	Miss. Eleanor Ileen Johnson	1	3	female	1	1
+21.0	7.925	Mr. Antti Wilhelm Sivola	0	3	male	0	0
+56.0	30.6958	Mr. James Clinch Smith	0	1	male	0	0
+18.0	7.8542000000000005	Mr. Klas Albin Klasen	1	3	male	1	0
+5.0	25.4667	Master. Henry Forbes Lefebre	1	3	male	3	0
+50.0	28.7125	Miss. Ann Elizabeth Isham	0	1	female	0	0
+30.0	13.0	Mr. Reginald Hale	0	2	male	0	0
+36.0	0.0	Mr. Lionel Leonard	0	3	male	0	0
+8.0	69.55	Miss. Constance Gladys Sage	2	3	female	8	0
+31.0	18.0	Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke	0	3	female	1	0
+39.0	15.05	Mr. Rene Pernot	0	2	male	0	0
+9.0	31.3875	Master. Clarence Gustaf Hugo Asplund	2	3	male	4	0
+1.0	39.0	Master. Richard F Becker	1	2	male	2	1
+4.0	22.025	Miss. Luise Gretchen Kink-Heilmann	2	3	female	0	1
+39.0	50.0	Mr. Hugh Roscoe Rood	0	1	male	0	0
+26.0	15.5	Mrs. Thomas (Johanna Godfrey) O'Brien	0	3	female	1	1
+45.0	26.55	Mr. Charles Hallace Romaine	0	1	male	0	1
+40.0	15.5	Mr. John Bourke	1	3	male	1	0
+36.0	7.8958	Mr. Stjepan Turcin	0	3	male	0	0
+32.0	13.0	Mrs. (Rosa) Pinsky	0	2	female	0	1
+22.0	7.225	Mrs. Fatima Masselmani	0	3	female	0	1
+19.0	13.0	Mr. William Carbines	0	2	male	0	0
+19.0	7.8542000000000005	Miss. Carla Christine Nielsine Andersen-Jensen	0	3	female	1	1
+3.0	26.0	Master. Michel M Navratil	1	2	male	1	1
+44.0	27.7208	Mrs. James Joseph (Margaret Tobin) Brown	0	1	female	0	1
+58.0	146.5208	Miss. Elise Lurette	0	1	female	0	1
+28.0	7.75	Mr. Robert Mernagh	0	3	male	0	0
+42.0	8.4042	Mr. Karl Siegwart Andreas Olsen	1	3	male	0	0
+21.0	7.75	Miss. Margaret Madigan	0	3	female	0	1
+24.0	13.0	Miss. Henriette Yrois	0	2	female	0	0
+28.0	9.5	Mr. Nestor Cyriel Vande Walle	0	3	male	0	0
+26.0	7.925	Miss. Laina Heikkinen	0	3	female	0	1
+35.0	26.0	Mr. Joseph J Fynney	0	2	male	0	0
+17.0	69.55	Mr. Frederick Sage	2	3	male	8	0
+34.0	6.4958	Mr. Jakob Alfred Johanson	0	3	male	0	0
+45.5	7.225	Mr. Gerious Youseff	0	3	male	0	0
+18.0	8.05	Mr. Gurshon Cohen	0	3	male	0	1
+2.0	10.4625	Miss. Telma Matilda Strom	1	3	female	0	0
+32.0	15.85	Mr. Karl Alfred Backstrom	0	3	male	1	0
+26.0	18.7875	Mr. Nassef Cassem Albimona	0	3	male	0	1
+16.0	7.75	Miss. Helen Carr	0	3	female	0	1
+40.0	31.0	Mr. Henry Blank	0	1	male	0	1
+24.0	7.05	Mr. Ahmed Ali	0	3	male	0	0
+34.0	13.0	Mr. Lawrence Beesley	0	2	male	0	1
+35.0	21.0	Miss. Clear Annie Cameron	0	2	female	0	1
+22.0	7.25	Mr. John Henry Perkin	0	3	male	0	0
+30.0	13.0	Mr. Hans Kristensen Givard	0	2	male	0	0
+22.0	7.75	Mr. Philip Kiernan	0	3	male	1	0
+31.0	113.275	Miss. Madeleine Newell	0	1	female	1	1
+27.0	7.925	Miss. Eliina Honkanen	0	3	female	0	1
+42.0	27.0	Mr. Sidney Samuel Jacobsohn	0	2	male	1	0
+32.0	76.2917	Miss. Albina Bazzani	0	1	female	0	1
+30.0	10.5	Mr. Walter Harris	0	2	male	0	0
+16.0	8.05	Mr. Victor Francis Sunderland	0	3	male	0	1
+15.0	8.0292	Miss. Anna McGowan	0	3	female	0	1
+27.0	13.0	Mr. James H Bracken	0	2	male	0	0
+51.0	8.05	Mr. George Henry Green	0	3	male	0	0
+22.0	7.8958	Mr. Christo Nenkoff	0	3	male	0	0
+38.0	90.0	Mr. Frederick Maxfield Hoyt	0	1	male	1	1
+22.0	9.35	Mr. Karl Ivar Sven Berglund	0	3	male	0	0
+19.0	10.5	Mr. William John Mellors	0	2	male	0	1
+20.5	7.25	Mr. John Hall Lovell	0	3	male	0	0
+18.0	13.0	Mr. Arne Jonas Fahlstrom	0	2	male	0	0
+12.0	25.4667	Miss. Mathilde Lefebre	1	3	female	3	0
+35.0	83.475	Mrs. Henry Birkhardt (Irene Wallach) Harris	0	1	female	1	1
+28.0	35.5	Mr. William Thompson Sloper	0	1	male	0	1
+29.0	7.775	Mr. Bengt Edvin Larsson	0	3	male	0	0
+59.0	13.5	Mr. Ernst Adolf Sjostedt	0	2	male	0	0
+5.0	31.3875	Miss. Lillian Gertrud Asplund	2	3	female	4	1
+24.0	10.5	Mr. Robert William Norman Leyson	0	2	male	0	0
+21.0	7.55	Miss. Alice Phoebe Harknett	0	3	female	0	0
+44.0	26.0	Mr. Stephen Hold	0	2	male	1	0
+8.0	26.25	Miss. Marjorie Collyer	2	2	female	0	1
+19.0	10.5	Mr. Frederick William Pengelly	0	2	male	0	0
+33.0	12.275	Mr. George Henry Hunt	0	2	male	0	0
+19.0	14.4542	Miss. Thamine Zabour	0	3	female	1	0
+8.0	21.075	Miss. Torborg Danira Palsson	1	3	female	3	0
+18.0	15.5	Miss. Katherine Murphy	0	3	female	1	1
+29.0	10.5	Mr. Reginald Charles Coleridge	0	2	male	0	0
+22.0	7.125	Mr. Matti Alexanteri Maenpaa	0	3	male	0	0
+30.0	7.225	Mr. Sleiman Attalah	0	3	male	0	0
+44.0	90.0	Dr. William Edward Minahan	0	1	male	2	0
+25.0	7.775	Miss. Agda Thorilda Viktoria Lindahl	0	3	female	0	0
+24.0	14.5	Mrs. William (Anna) Hamalainen	2	2	female	0	1
+37.0	52.5542	Mr. Richard Leonard Beckwith	1	1	male	1	1
+54.0	26.0	Rev. Ernest Courtenay Carter	0	2	male	1	0
+18.0	7.25	Mr. James George Reed	0	3	male	0	0
+38.0	31.3875	Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund	5	3	female	1	1
+29.0	10.4625	Mrs. Wilhelm (Elna Matilda Persson) Strom	1	3	female	1	0
+62.0	26.55	Mr. William Thomas Stead	0	1	male	0	0
+30.0	16.1	Mr. William Arthur Lobb	0	3	male	1	0
+41.0	20.2125	Mrs. Viktor (Helena Wilhelmina) Rosblom	2	3	female	0	0
+29.0	15.2458	Mrs. Darwis (Hanne Youssef Razi) Touma	2	3	female	0	1
+38.0	79.2	Mrs. Gertrude Maybelle Thorne	0	1	female	0	1
+30.0	86.5	Miss. Gladys Cherry	0	1	female	0	1
+35.0	512.3292	Miss. Anna Ward	0	1	female	0	1
+50.0	26.0	Mrs. (Lutie Davis) Parrish	1	2	female	0	1
+3.0	31.3875	Master. Edvin Rojj Felix Asplund	2	3	male	4	1
+26.0	7.225	Mr. Farred Chehab Emir	0	3	male	0	0
+52.0	79.65	Mr. Emil Taussig	1	1	male	1	0
+40.0	0.0	Mr. William Harrison	0	1	male	0	0
+21.0	7.75	Miss. Delia Henry	0	3	female	0	0
+36.0	10.5	Mr. David Reeves	0	2	male	0	0
+16.0	39.6875	Mr. Ernesti Arvid Panula	1	3	male	4	0
+25.0	7.775	Mr. Ernst Ulrik Persson	0	3	male	1	1
+58.0	153.4625	Mrs. William Thompson (Edith Junkins) Graham	1	1	female	0	1
+35.0	135.6333	Miss. Amelia Bissette	0	1	female	0	1
+28.0	31.0	Mr. Alexander Cairns	0	1	male	0	0
+25.0	0.0	Mr. William Henry Tornquist	0	3	male	0	1
+19.0	263.0	Mr. Charles Alexander Fortune	2	1	male	3	0
+41.0	19.5	Mrs. (Elizabeth Anne Maidment) Mellinger	1	2	female	0	1
+37.0	29.7	Mr. Charles H Natsch	1	1	male	0	0
+33.0	7.75	Miss. Hanora Healy	0	3	female	0	1
+63.0	77.9583	Miss. Kornelia Theodosia Andrews	0	1	female	1	1
+45.0	7.75	Miss. Augusta Charlotta Lindblom	0	3	female	0	0
+21.0	0.0	Mr. Francis Parkes	0	2	male	0	0
+7.0	29.125	Master. Eric Rice	1	3	male	4	0
+35.0	20.25	Mrs. Stanton (Rosa Hunt) Abbott	1	3	female	1	1
+65.0	7.75	Mr. Frank Duane	0	3	male	0	0
+28.0	7.8542000000000005	Mr. Nils Johan Goransson Olsson	0	3	male	0	0
+24.0	7.8792	Miss. Ellen O'Dwyer	0	3	female	0	1
+16.0	9.5	Mr. Alfons de Pelsmaeker	0	3	male	0	0
+19.0	8.05	Mr. Edward Arthur Dorking	0	3	male	0	1
+57.0	26.0	Mr. Richard William Smith	0	1	male	0	0
+33.0	8.6625	Mr. Ivan Stankovic	0	3	male	0	0
+30.0	9.5	Mr. Theodore de Mulder	0	3	male	0	1
+22.0	7.8958	Mr. Penko Naidenoff	0	3	male	0	0
+42.0	13.0	Mr. Masabumi Hosono	0	2	male	0	1
+22.0	7.75	Miss. Kate Connolly	0	3	female	0	1
+26.0	78.85	Miss. Ellen Barber	0	1	female	0	1
+19.0	91.0792	Mrs. Dickinson H (Helen Walton) Bishop	0	1	female	1	1
+23.0	7.8958	Mr. Lalio Todoroff	0	3	male	0	0
+36.0	12.875	Mr. Rene Jacques Levy	0	2	male	0	0
+24.0	8.85	Miss. Aloisia Haas	0	3	female	0	0
+24.0	7.8958	Mr. Ivan Mineff	0	3	male	0	0
+30.0	27.7208	Mr. Ervin G Lewy	0	1	male	0	0
+23.5	7.2292	Mr. Mansour Hanna	0	3	male	0	0
+2.0	151.55	Miss. Helen Loraine Allison	2	1	female	1	0
+47.0	30.5	Mr. Adolphe Saalfeld	0	1	male	0	1
+50.0	247.5208	Mrs. James (Helene DeLaudeniere Chaput) Baxter	1	1	female	0	1
+20.0	7.75	Miss. Anna Katherine Kelly	0	3	female	0	1
+24.0	23.25	Mr. Bernard McCoy	0	3	male	2	1
+35.0	53.1	Mrs. Jacques Heath (Lily May Peel) Futrelle	0	1	female	1	1
+40.0	27.7208	Don. Manuel E Uruchurtu	0	1	male	0	0
+19.0	0.0	Mr. William Cahoone Jr Johnson	0	3	male	0	0
+46.0	12.35	Miss. Nora A Keane	0	2	female	0	1
+28.0	8.05	Mr. Howard Hugh Williams	0	3	male	0	0
+0.92	151.55	Master. Hudson Trevor Allison	2	1	male	1	1
+42.0	110.8833	Miss. Margaret Fleming	0	1	female	0	1
+17.0	108.9	Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana	0	1	female	1	1
+30.0	24.0	Mr. Samuel Abelson	0	2	male	1	0
+30.0	56.9292	Miss. Laura Mabel Francatelli	0	1	female	0	1
+24.0	83.1583	Miss. Margaret Bechstein Hays	0	1	female	0	1
+18.0	262.375	Miss. Emily Borie Ryerson	2	1	female	2	1
+48.0	146.5208	Mrs. William Augustus (Marie Eugenie) Spencer	0	1	female	1	1
+26.0	26.0	Mrs. William (Anna Sylfven) Lahtinen	1	2	female	1	0
+28.0	7.8958	Mr. Ignjac Hendekovic	0	3	male	0	0
+43.0	26.25	Mr. Benjamin Hart	1	2	male	1	0
+26.0	7.8542000000000005	Miss. Helmina Josefina Nilsson	0	3	female	0	1
+24.0	26.0	Mrs. Sinai (Miriam Sternin) Kantor	0	2	female	1	1
+54.0	14.0	Dr. Ernest Moraweck	0	2	male	0	0
+31.0	164.8667	Miss. Mary Natalie Wick	2	1	female	0	1
+40.0	134.5	Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden	1	1	female	1	1
+22.0	7.25	Mr. Samuel Dennis	0	3	male	0	0
+27.0	7.8958	Mr. Yoto Danoff	0	3	male	0	0
+18.0	7.75	Miss. Mary Agatha Glynn	0	3	female	0	1
+30.0	12.35	Miss. Hilda Mary Slayter	0	2	female	0	1
+22.0	29.0	Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell	1	2	female	1	1
+20.0	69.55	Mr. George John Jr Sage	2	3	male	8	0
+36.0	135.6333	Miss. Marie Grice Young	0	1	female	0	1
+61.0	6.2375	Mr. Johan Hansen Nysveen	0	3	male	0	0
+36.0	13.0	Mrs. (Ada E Hall) Ball	0	2	female	0	1
+31.0	20.525	Mrs. Frank John (Emily Alice Brown) Goldsmith	1	3	female	1	1
+16.0	57.9792	Miss. Jean Gertrude Hippach	1	1	female	0	1
+28.0	23.25	Miss. Agnes McCoy	0	3	female	2	1
+45.5	28.5	Mr. Austen Partner	0	1	male	0	0
+66.0	10.5	Mr. Edward H Wheadon	0	2	male	0	0
+38.0	153.4625	Mr. George Edward Graham	1	1	male	0	0
+16.0	18.0	Mr. Leo Edmondus Vander Planke	0	3	male	2	0
+42.0	133.65	Mrs. Henry William (Clara Heinsheimer) Frauenthal	0	1	female	1	1
+30.0	7.8958	Mr. Mitto Denkoff	0	3	male	0	0
+29.0	66.6	Mr. Thomas Clinton Pears	0	1	male	1	0
+41.0	134.5	Miss. Elizabeth Margaret Burns	0	1	female	0	1
+45.0	8.05	Mr. Karl Edwart Dahl	0	3	male	0	1
+45.0	35.5	Mr. Stephen Weart Blackwell	0	1	male	0	0
+2.0	26.0	Master. Edmond Roger Navratil	1	2	male	1	1
+24.0	263.0	Miss. Alice Elizabeth Fortune	2	1	female	3	1
+28.0	82.1708	Mr. Edgar Joseph Meyer	0	1	male	1	0
+28.0	13.0	Mr. Erik Gustaf Collander	0	2	male	0	0
+25.0	13.0	Mr. Charles Frederick Waddington Sedgwick	0	2	male	0	0
+36.0	13.0	Mr. Stanley Hubert Fox	0	2	male	0	0
+24.0	13.0	Miss. Amelia Brown	0	2	female	0	1
+40.0	13.0	Miss. Marion Elsie Smith	0	2	female	0	1
+34.0	16.1	Mrs. Thomas Henry (Mary E Finck) Davison	0	3	female	1	1
+3.0	15.9	Master. William Loch Coutts	1	3	male	1	1
+42.0	8.6625	Mr. Jovan Dimic	0	3	male	0	0
+23.0	9.225	Mr. Nils Martin Odahl	0	3	male	0	0
+43.0	35.0	Mr. Fletcher Fellows Williams-Lambert	0	1	male	0	0
+42.0	52.0	Mr. Alexander Oskar Holverson	0	1	male	1	0
+15.0	7.2292	Mr. Tannous Elias	1	3	male	1	0
+25.0	17.8	Mr. Josef Arnold-Franchi	0	3	male	1	0
+23.0	7.225	Mr. Wazli Yousif	0	3	male	0	0
+28.0	9.5	Mr. Leo Peter Vanden Steen	0	3	male	0	0
+22.0	55.0	Miss. Elsie Edith Bowerman	1	1	female	0	1
+38.0	13.0	Miss. Annie Clemmer Funk	0	2	female	0	0
+22.0	7.8792	Miss. Mary McGovern	0	3	female	0	1
+23.0	7.8792	Miss. Helen Mary Mockler	0	3	female	0	1
+40.0	27.9	Mr. Wilhelm Skoog	4	3	male	1	0
+29.0	27.7208	Mr. Sebastiano del Carlo	0	2	male	1	0
+18.0	7.2292	Mr. Hanna Mamee	0	3	male	0	1
+45.0	14.4542	Mrs. (Catherine David) Barbara	1	3	female	0	0
+35.0	7.05	Mr. Adola Asim	0	3	male	0	0
+27.0	15.5	Mr. Thomas O'Brien	0	3	male	1	0
+30.0	7.25	Mr. Mauritz Nils Martin Adahl	0	3	male	0	0
+60.0	75.25	Mrs. Frank Manley (Anna Sophia Atkinson) Warren	0	1	female	1	1
+35.0	7.2292	Mrs. (Mantoura Boulos) Moussa	0	3	female	0	1
+22.0	7.75	Miss. Annie Jermyn	0	3	female	0	1
+24.0	69.3	Mme. Leontine Pauline Aubart	0	1	female	0	1
+25.0	55.4417	Mr. George Achilles Harder	0	1	male	1	1
+18.0	6.4958	Mr. Jakob Alfred Wiklund	0	3	male	1	0
+21.0	8.05	Mr. Ernest Charles Cann	0	3	male	0	0
+19.0	8.05	Mr. William Thomas Beavan	0	3	male	0	0
+22.0	135.6333	Mr. Sante Ringhini	0	1	male	0	0
+3.0	21.075	Miss. Stina Viola Palsson	1	3	female	3	0
+25.0	82.1708	Mrs. Edgar Joseph (Leila Saks) Meyer	0	1	female	1	1
+22.0	7.25	Miss. Aurora Adelia Landergren	0	3	female	0	1
+27.0	211.5	Mr. Harry Elkins Widener	2	1	male	0	0
+20.0	4.0125	Mr. Tannous Betros	0	3	male	0	0
+19.0	7.775	Mr. Karl Gideon Gustafsson	0	3	male	0	0
+42.0	227.525	Miss. Rosalie Bidois	0	1	female	0	1
+1.0	15.7417	Miss. Maria Nakid	2	3	female	0	1
+18.0	18.0	Miss. Augusta Maria Vander Planke	0	3	female	2	0
+32.0	7.925	Mr. Juho Tikkanen	0	3	male	0	0
+35.0	52.0	Mrs. Alexander Oskar (Mary Aline Towner) Holverson	0	1	female	1	1
+27.0	7.8958	Mr. Vasil Plotcharsky	0	3	male	0	0
+18.0	73.5	Mr. Charles Henry Davies	0	2	male	0	0
+1.0	46.9	Master. Sidney Leonard Goodwin	2	3	male	5	0
+36.0	13.0	Miss. Kate Buss	0	2	female	0	1
+19.0	7.7292000000000005	Mr. Matthew Sadlier	0	3	male	0	0
+17.0	12.0	Miss. Bertha Lehmann	0	2	female	0	1
+36.0	120.0	Mr. William Ernest Carter	2	1	male	1	1
+21.0	7.7958	Mr. Carl Olof Jansson	0	3	male	0	1
+14.0	11.2417	Miss. Jamila Nicola-Yarred	0	3	female	1	1
+28.0	7.925	Mr. Johan Birger Gustafsson	0	3	male	2	0
+23.0	113.275	Miss. Marjorie Newell	0	1	female	1	1
+24.0	16.7	Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom	2	3	female	0	1
+22.0	7.7958	Mr. Erik Johansson	0	3	male	0	0
+31.0	7.8542000000000005	Miss. Elina Olsson	0	3	female	0	0
+46.0	26.0	Mr. Peter David McKane	0	2	male	0	0
+23.0	10.5	Dr. Alfred Pain	0	2	male	0	0
+28.0	12.65	Mrs. William H (Jessie L) Trout	0	2	female	0	1
+39.0	7.925	Mr. Juha Niskanen	0	3	male	0	1
+26.0	8.05	Mr. John Adams	0	3	male	0	0
+35.0	8.05	Mr. William Henry Allen	0	3	male	0	0
+40.0	9.475	Mrs. Johan (Johanna Persdotter Larsson) Ahlin	0	3	female	1	0
+21.0	9.825	Miss. Mari Aina Jussila	0	3	female	1	0
+28.0	15.85	Mr. Pekka Pietari Hakkarainen	0	3	male	1	0
+20.0	8.6625	Miss. Marija Oreskovic	0	3	female	0	0
+34.0	21.0	Mr. Shadrach Gale	0	2	male	1	0
+51.0	7.75	Mr. Carl/Charles Peter Widegren	0	3	male	0	0
+3.0	18.75	Master. William Rowe Richards	1	2	male	1	1
+21.0	7.775	Mr. Hans Martin Monsen Birkeland	0	3	male	0	0
+3.0	25.4667	Miss. Ida Lefebre	1	3	female	3	0
+42.0	7.8958	Mr. Todor Sdycoff	0	3	male	0	0
+27.0	6.8583	Mr. Henry Hart	0	3	male	0	0
+27.0	21.0	Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin	0	2	female	1	0
+33.0	90.0	Miss. Daisy E Minahan	0	1	female	1	1
+22.0	0.0	Mr. Alfred Fleming Cunningham	0	2	male	0	0
+44.0	7.925	Mr. Johan Julian Sundman	0	3	male	0	1
+32.0	8.05	Mrs. Thomas (Annie Louise Rowley) Meek	0	3	female	0	0
+34.0	32.5	Mrs. James Vivian (Lulu Thorne Christian) Drew	1	2	female	1	1
+18.0	13.0	Miss. Lyyli Karoliina Silven	2	2	female	0	1
+30.0	13.0	Mr. William John Matthews	0	2	male	0	0
+10.0	24.15	Miss. Catharina Van Impe	2	3	female	0	0
+21.0	7.7333	Mr. David Charters	0	3	male	0	0
+29.0	7.875	Mr. Leo Zimmerman	0	3	male	0	0
+3.0	41.5792	Miss. Simonne Marie Anne Andree Laroche	2	2	female	1	1
+28.0	14.4	Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom	1	3	female	1	0
+18.0	20.2125	Mr. Viktor Richard Rosblom	1	3	male	1	0
+54.0	7.25	Mr. Phillippe Wiseman	0	3	male	0	0
+28.0	26.0	Mrs. Charles V (Ada Maria Winfield) Clarke	0	2	female	1	1
+19.0	26.0	Miss. Kate Florence Phillips	0	2	female	0	1
+28.0	7.75	Mr. James Flynn	0	3	male	0	0
+32.0	8.05	Mr. Berk (Berk Trembisky) Pickard	0	3	male	0	1
+28.0	26.55	Mr. Mauritz Hakan Bjornstrom-Steffansson	0	1	male	0	1
+33.0	16.1	Mrs. Percival (Florence Kate White) Thorneycroft	0	3	female	1	1
+42.0	26.0	Mrs. Charles Alexander (Alice Adelaide Slow) Louch	0	2	female	1	1
+19.0	7.8792	Miss. Margaret Delia Devaney	0	3	female	0	1
+17.0	7.125	Mr. Nikolai Erland Kallio	0	3	male	0	0
+50.0	55.9	Mr. William Baird Silvey	0	1	male	1	0
+14.0	120.0	Miss. Lucile Polk Carter	2	1	female	1	1
+21.0	34.375	Miss. Doolina Margaret Ford	2	3	female	2	0
+24.0	18.75	Mrs. Sidney (Emily Hocking) Richards	3	2	female	2	1
+64.0	263.0	Mr. Mark Fortune	4	1	male	1	0
+31.0	10.5	Mr. Johan Henrik Johannesson Kvillner	0	2	male	0	0
+45.0	26.25	Mrs. Benjamin (Esther Ada Bloomfield) Hart	1	2	female	1	1
+20.0	9.5	Mr. Leon Hampe	0	3	male	0	0
+25.0	7.775	Mr. Johan Emil Petterson	0	3	male	1	0
+30.0	8.05	Mr. William John Rogers	0	3	male	0	0
+28.0	13.0	Ms. Encarnacion Reynaldo	0	2	female	0	1
+29.0	8.1125	Mr. Bernt Johannesen-Bratthammer	0	3	male	0	1
+4.0	81.8583	Master. Washington Dodge	2	1	male	0	1
+13.0	19.5	Miss. Madeleine Violet Mellinger	1	2	female	0	1
+34.0	26.55	Mr. Frederic Kimber Seward	0	1	male	0	1
+5.0	19.2583	Miss. Marie Catherine Baclini	1	3	female	2	1
+52.0	30.5	Major. Arthur Godfrey Peuchen	0	1	male	0	1
+36.0	27.75	Mr. Edwy Arthur West	2	2	male	1	0
+28.0	19.9667	Mr. Ingvald Olai Olsen Hagland	0	3	male	1	0
+30.0	27.75	Mr. Benjamin Laventall Foreman	0	1	male	0	0
+20.0	15.5	Mr. Denis Lennon	0	3	male	1	0
+49.0	89.1042	Mr. Samuel L Goldenberg	0	1	male	1	1
+24.0	8.05	Mr. Joseph Peduzzi	0	3	male	0	0
+29.0	7.8958	Mr. Ivan Jalsevac	0	3	male	0	1
+65.0	26.55	Mr. Francis Davis Millet	0	1	male	0	0
+41.0	51.8625	Mrs. Frederick R (Marion) Kenyon	0	1	female	1	1
+50.0	10.5	Miss. Ellen Toomey	0	2	female	0	1
+17.0	7.75	Mr. Maurice O'Connor	0	3	male	0	0
+48.0	26.55	Mr. Harry Anderson	0	1	male	0	1
+34.0	8.05	Mr. William Morley	0	3	male	0	0
+47.0	38.5	Mr. Arthur H Gee	0	1	male	0	0
+27.0	7.75	Miss. Bridget O'Driscoll	0	3	female	0	1
+48.0	13.0	Mr. Jacob Christian Milling	0	2	male	0	0
+34.0	8.05	Mr. Simon Maisner	0	3	male	0	0
+38.0	7.05	Mr. Manuel Estanslas Goncalves	0	3	male	0	0
+21.0	0.0	Mr. William Campbell	0	2	male	0	0
+56.0	26.55	Mr. John Montgomery Smart	0	1	male	0	0
+22.0	7.725	Mr. James Scanlan	0	3	male	0	0
+0.75	19.2583	Miss. Helene Barbara Baclini	1	3	female	2	1
+39.0	7.25	Mr. Arthur Keefe	0	3	male	0	0
+38.0	8.6625	Mr. Luka Cacic	0	3	male	0	0
+33.0	27.75	Mrs. Edwy Arthur (Ada Mary Worth) West	2	2	female	1	1
+16.0	21.6792	Mr. Youssef Samaan	0	3	male	2	0
+23.0	13.7917	Mrs. Amin S (Marie Marthe Thuillard) Jerwan	0	2	female	0	1
+22.0	9.8375	Miss. Ida Sofia Strandberg	0	3	female	0	0
+40.0	52.0	Mr. George Quincy Clifford	0	1	male	0	0
+34.0	21.0	Mr. Peter Henry Renouf	0	2	male	1	0
+29.0	7.0458	Mr. Lewis Richard Braund	0	3	male	1	0
+22.0	7.5208	Mr. Nils August Karlsson	0	3	male	0	0
+2.0	12.2875	Miss. Hildur E Hirvonen	1	3	female	0	1
+9.0	46.9	Master. Harold Victor Goodwin	2	3	male	5	0
+37.0	0.0	Mr. Anthony Wood Frost	0	2	male	0	0
+50.0	8.05	Mr. Richard Henry Rouse	0	3	male	0	0
+18.0	17.8	Mrs. Josef (Josefine Franchi) Arnold-Franchi	0	3	female	1	0
+63.0	9.5875	Mrs. (Hedwig) Turkula	0	3	female	0	1
+25.0	91.0792	Mr. Dickinson H Bishop	0	1	male	1	1
+8.0	25.4667	Miss. Jeannie Lefebre	1	3	female	3	0
+35.0	90.0	Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt	0	1	female	1	1
+58.0	29.7	Mr. Edward Austin Kent	0	1	male	0	0
+30.0	8.05	Mr. Francis William Somerton	0	3	male	0	0
+9.0	15.9	Master. Eden Leslie Coutts	1	3	male	1	1
+19.0	19.9667	Mr. Konrad Mathias Reiersen Hagland	0	3	male	1	0
+21.0	7.25	Mr. Einar Windelov	0	3	male	0	0
+55.0	30.5	Mr. Harry Markland Molson	0	1	male	0	0
+7.0	39.6875	Master. Juha Niilo Panula	1	3	male	4	0
+71.0	49.5042	Mr. Ramon Artagaveytia	0	1	male	0	0
+21.0	8.05	Mr. Edward Roland Stanley	0	3	male	0	0
+26.0	14.4583	Mr. Gerious Yousseff	0	3	male	0	0
+54.0	78.2667	Miss. Elizabeth Mussey Eustis	0	1	female	1	1
+55.0	15.1	Mr. Frederick William Shellard	0	3	male	0	0
+25.0	151.55	Mrs. Hudson J C (Bessie Waldo Daniels) Allison	2	1	female	1	0
+24.0	7.7958	Mr. Olof Svensson	0	3	male	0	0
+17.0	8.6625	Mr. Petar Calic	0	3	male	0	0
+21.0	7.75	Miss. Mary Canavan	0	3	female	0	0
+21.0	7.6292	Miss. Bridget Mary O'Sullivan	0	3	female	0	0
+27.0	8.4583	Mr. James Moran	0	3	male	0	0
+21.0	7.8	Mr. Richard Cater Nosworthy	0	3	male	0	0
+37.0	9.5875	Miss. Kristina Sofia Laitinen	0	3	female	0	0
+16.0	86.5	Miss. Roberta Maioni	0	1	female	0	1
+18.0	108.9	Mr. Victor de Satode Penasco y Castellana	0	1	male	1	0
+33.0	26.0	Mrs. Frederick Charles (Jane Richards) Quick	2	2	female	0	1
+37.0	26.55	Mr. George Bradley	0	1	male	0	1
+28.0	22.525	Mr. Henry Margido Olsen	0	3	male	0	0
+26.0	56.4958	Mr. Fang Lang	0	3	male	0	1
+29.0	7.75	Mr. Eugene Patrick Daly	0	3	male	0	1
+66.0	8.05	Mr. James Webber	0	3	male	0	0
+36.0	26.2875	Mr. James Robert McGough	0	1	male	0	1
+49.0	76.7292	Mrs. Henry Sleeper (Myna Haxtun) Harper	0	1	female	1	1
+54.0	59.4	Mrs. Martin (Elizabeth L. Barrett) Rothschild	0	1	female	1	1
+24.0	7.4958	Mr. Satio Coleff	0	3	male	0	0
+47.0	34.0208	Mr. William Anderson Walker	0	1	male	0	0
+34.0	10.5	Mrs. (Amelia Milley) Lemore	0	2	female	0	1
+30.0	24.15	Mr. Patrick Ryan	0	3	male	0	0
+36.0	26.0	Mrs. William A (Florence Agnes Hughes) Angle	0	2	female	1	1
+32.0	7.8958	Mr. Stefo Pavlovic	0	3	male	0	0
+30.0	93.5	Miss. Anne Perreault	0	1	female	0	1
+22.0	7.8958	Mr. Janko Vovk	0	3	male	0	0
+35.0	7.225	Mr. Sarkis Lahoud	0	3	male	0	0
+29.0	26.0	Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe	0	2	female	1	1
+44.0	57.9792	Mrs. Louis Albert (Ida Sophia Fischer) Hippach	1	1	female	0	1
+18.0	7.2292	Mr. Fared Kassem	0	3	male	0	0
+40.5	7.75	Mr. James Farrell	0	3	male	0	0
+50.0	10.5	Miss. Lucy Ridsdale	0	2	female	0	1
+49.0	221.7792	Mr. John Farthing	0	1	male	0	0
+39.0	7.925	Mr. Johan Werner Salonen	0	3	male	0	0
+23.0	11.5	Mr. Richard George Hocking	1	2	male	2	0
+2.0	26.0	Miss. Phyllis May Quick	1	2	female	1	1
+17.0	7.2292	Mr. Nakli Toufik	0	3	male	0	0
+17.0	7.2292	Mr. Joseph Jr Elias	1	3	male	1	0
+65.0	61.9792	Mr. Engelhart Cornelius Ostby	1	1	male	0	0
+24.0	22.3583	Mrs. Catherine (Catherine Rizk) Peter	2	3	female	0	1
+30.0	8.6625	Miss. Marija Cacic	0	3	female	0	0
+7.0	26.25	Miss. Eva Miriam Hart	2	2	female	0	1
+45.0	26.55	Major. Archibald Willingham Butt	0	1	male	0	0
+30.0	106.425	Miss. Bertha LeRoy	0	1	female	0	1
+69.0	14.5	Mr. Samuel Beard Risien	0	3	male	0	0
+22.0	49.5	Miss. Hedwig Margaritha Frolicher	2	1	female	0	1
+36.0	71.0	Miss. Harriet R Crosby	2	1	female	0	1
+9.0	31.275	Miss. Ingeborg Constanzia Andersson	2	3	female	4	0
+11.0	31.275	Miss. Sigrid Elisabeth Andersson	2	3	female	4	0
+46.0	35.5	Mr. Hugh Woolner	0	1	male	0	1
+32.0	26.0	Mr. Edward Beane	0	2	male	1	1
+50.0	106.425	Mr. Walter Donald Douglas	0	1	male	1	0
+64.0	26.0	Mr. Arthur Ernest Nicholson	0	1	male	0	0
+19.0	26.0	Mrs. Edward (Ethel Clarke) Beane	0	2	female	1	1
+27.0	13.8625	Mr. Julian Padro y Manent	0	2	male	0	1
+33.0	20.525	Mr. Frank John Goldsmith	1	3	male	1	0
+8.0	36.75	Master. John Morgan Jr Davies	1	2	male	1	1
+17.0	110.8833	Mr. John Borland Jr Thayer	2	1	male	0	1
+27.0	26.0	Mr. Percival James R Sharp	0	2	male	0	0
+21.0	7.8292	Mr. Timothy O'Brien	0	3	male	0	0
+21.0	10.5	Miss. Emily Rugg	0	2	female	0	1
+22.0	7.225	Mr. Fahim Leeni	0	3	male	0	1
+22.0	7.775	Miss. Velin Ohman	0	3	female	0	1
+62.0	26.55	Mr. George Wright	0	1	male	0	0
+48.0	39.6	Lady. (Lucille Christiana Sutherland)Duff Gordon	0	1	female	1	1
+45.0	227.525	Mr. Victor Robbins	0	1	male	0	0
+39.0	79.65	Mrs. Emil (Tillie Mandelbaum) Taussig	1	1	female	1	1
+36.0	17.4	Mrs. Guillaume Joseph (Emma) de Messemaeker	0	3	female	1	1
+30.0	7.75	Mr. Thomas Rowan Morrow	0	3	male	0	0
+40.0	7.8958	Mr. Husein Sivic	0	3	male	0	0
+28.0	13.5	Mr. Robert Douglas Norman	0	2	male	0	0
+28.5	7.2292	Mr. Mansouer Novel	0	3	male	0	0
+40.0	8.05	Mr. John Simmons	0	3	male	0	0
+62.0	8.05	Miss. (Marion Ogden) Meanwell	0	3	female	0	0
+24.0	24.15	Mr. Alfred J Davies	0	3	male	2	0
+19.0	7.8958	Mr. Ilia Stoytcheff	0	3	male	0	0
+29.0	21.075	Mrs. Nils (Alma Cornelia Berglund) Palsson	4	3	female	0	0
+28.0	7.2292	Mr. Tannous Doharr	0	3	male	0	0
+32.0	7.8542000000000005	Mr. Carl Jonsson	0	3	male	0	1
+62.0	10.5	Mr. George Harris	0	2	male	0	1
+53.0	51.4792	Mrs. Edward Dale (Charlotte Lamson) Appleton	0	1	female	2	1
+36.0	26.3875	Mr. John Irwin Flynn	0	1	male	0	1
+5.0	27.75	Miss. Constance Mirium West	2	2	female	1	1
+22.0	7.75	Miss. Mary Kelly	0	3	female	0	1
+16.0	8.05	Mr. Alfred George John Rush	0	3	male	0	0
+19.0	14.5	Mr. George Patchett	0	3	male	0	0
+34.0	13.0	Miss. Ethel Garside	0	2	female	0	1
+39.0	55.9	Mrs. William Baird (Alice Munger) Silvey	0	1	female	1	1
+18.0	14.4583	Mrs. Joseph (Maria Elias) Caram	0	3	female	1	0
+32.0	7.925	Mr. Eiriik Jussila	0	3	male	0	1
+25.0	30.0	Miss. Julie Rachel Christy	1	2	female	1	1
+39.0	110.8833	Mrs. John Borland (Marian Longstreth Morris) Thayer	1	1	female	1	1
+54.0	26.0	Mr. William James Downton	0	2	male	0	0
+11.0	46.9	Master. William Frederick Goodwin	2	3	male	5	0
+36.0	40.125	Mr. John Hugo Ross	0	1	male	0	0
+16.0	8.7125	Mr. Uscher Paulner	0	3	male	0	0
+18.0	79.65	Miss. Ruth Taussig	2	1	female	0	1
+47.0	15.0	Mr. John Denzil Jarvis	0	2	male	0	0
+60.0	79.2	Mr. Maxmillian Frolicher-Stehli	1	1	male	1	1
+22.0	8.05	Mr. Eliezer Gilinski	0	3	male	0	0
+22.0	8.05	Mr. Joseph Murdlin	0	3	male	0	0
+35.0	7.125	Mr. Matti Rintamaki	0	3	male	0	0
+52.0	78.2667	Mrs. Walter Bertram (Martha Eustis) Stephenson	0	1	female	1	1
+47.0	7.25	Mr. William James Elsbury	0	3	male	0	0
+22.0	7.2292	Mr. Orsen Sirayanian	0	3	male	0	0
+40.0	7.75	Miss. Mary Bourke	2	3	female	0	0
+37.0	26.0	Mr. John Henry Chapman	0	2	male	1	0
+36.0	24.15	Mr. Jean Baptiste Van Impe	1	3	male	1	0
+31.0	33.0	Miss. Jessie Wills Leitch	0	2	female	0	1
+49.0	0.0	Mr. Alfred Johnson	0	3	male	0	0
+18.0	7.225	Mr. Hanna Boulos	0	3	male	0	0
+49.0	56.9292	Sir. Cosmo Edmund Duff Gordon	0	1	male	1	1
+24.0	27.0	Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn	1	2	female	2	1
+42.0	7.8958	Mr. Petco Slabenoff	0	3	male	0	0
+37.0	42.4	Mr. Charles H Harrington	0	1	male	0	0
+54.0	51.8625	Mr. Timothy J McCarthy	0	1	male	0	0
+38.0	80.0	Miss. Amelie Icard	0	1	female	0	1
+44.0	8.05	Mr. Ernst William Torber	0	3	male	0	0
+35.0	26.55	Mr. Harry Homer	0	1	male	0	1
+36.0	15.55	Mr. Edvard Bengtsson Lindell	0	3	male	1	0
+30.0	7.8958	Mr. Milan Karaic	0	3	male	0	0
+27.0	30.5	Mr. Robert Williams Daniel	0	1	male	0	1
+22.0	41.5792	Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche	2	2	female	1	1
+40.0	153.4625	Miss. Elizabeth W Shutes	0	1	female	0	1
+39.0	31.275	Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson	5	3	female	1	0
+21.0	7.05	Mr. Jose Neto Jardin	0	3	male	0	0
+18.0	15.5	Miss. Margaret Jane Murphy	0	3	female	1	1
+45.0	83.475	Mr. Henry Birkhardt Harris	0	1	male	1	0
+22.0	7.75	Mr. John Horgan	0	3	male	0	0
+35.0	8.05	Mr. William Alfred Brocklebank	0	3	male	0	0
+24.0	65.0	Miss. Alice Herman	2	2	female	1	1
+34.0	14.4	Mr. Ernst Gilbert Danbom	1	3	male	1	0
+26.0	16.1	Mrs. William Arthur (Cordelia K Stanlick) Lobb	0	3	female	1	0
+4.0	39.0	Miss. Marion Louise Becker	1	2	female	2	1
+26.0	10.5	Mr. Lawrence Gavey	0	2	male	0	0
+27.0	14.4542	Mr. Antoni Yasbeck	0	3	male	1	0
+42.0	52.5542	Mr. Edwin Nelson Jr Kimball	0	1	male	1	1
+20.0	15.7417	Mr. Sahid Nakid	1	3	male	1	1
+4.0	27.9	Master. Harald Skoog	2	3	male	3	0
+21.0	7.8542000000000005	Mr. Henry Damsgaard Hansen	0	3	male	0	0
+21.0	16.1	Mr. David John Bowen	0	3	male	0	0
+61.0	32.3208	Mr. Frederick Sutton	0	1	male	0	0
+57.0	12.35	Rev. Charles Leonard Kirkland	0	2	male	0	0
+21.0	77.9583	Miss. Gretchen Fiske Longley	0	1	female	0	1
+26.0	7.8958	Mr. Guentcho Bostandyeff	0	3	male	0	0
+18.0	7.7333	Mr. Patrick D O'Connell	0	3	male	0	0
+80.0	30.0	Mr. Algernon Henry Wilson Barkworth	0	1	male	0	1
+51.0	7.0542	Mr. Johan Svensson Lundahl	0	3	male	0	0
+32.0	30.5	Dr. Max Stahelin-Maeglin	0	1	male	0	1
+64.0	27.7208	Mr. Albert A Stewart	0	1	male	0	0
+30.0	0.0	Mr. William Henry Marsh Parr	0	1	male	0	0
+9.0	27.9	Miss. Mabel Skoog	2	3	female	3	0
+28.0	13.0	Miss. Mary Davis	0	2	female	0	1
+32.0	7.925	Mr. Antti Gustaf Leinonen	0	3	male	0	0
+31.0	26.25	Mr. Harvey Collyer	1	2	male	1	0
+41.0	39.6875	Mrs. Juha (Maria Emilia Ojala) Panula	5	3	female	0	0
+37.0	16.1	Mr. Percival Thorneycroft	0	3	male	1	0
+20.0	7.8542000000000005	Mr. Hans Peder Jensen	0	3	male	0	0
+24.0	69.3	Mlle. Emma Sagesser	0	1	female	0	1
+2.0	27.9	Miss. Margit Elizabeth Skoog	2	3	female	3	0
+7.0	15.2458	Master. Gerios Moubarek	1	3	male	1	1
+32.0	56.4958	Mr. Choong Foo	0	3	male	0	1
+0.75	19.2583	Miss. Eugenie Baclini	1	3	female	2	1
+48.0	76.7292	Mr. Henry Sleeper Harper	0	1	male	1	1
+19.0	7.8958	Mr. Liudevit Cor	0	3	male	0	0
+56.0	35.5	Col. Oberst Alfons Simonius-Blumer	0	1	male	0	1
+21.0	7.55	Mr. Edward Willey	0	3	male	0	0
+23.0	7.55	Miss. Amy Zillah Elsie Stanley	0	3	female	0	1
+23.0	7.8958	Mr. Mito Mitkoff	0	3	male	0	0
+18.0	23.0	Miss. Elsie Doling	1	2	female	0	1
+21.0	8.4333	Mr. Johannes Halvorsen Kalvik	0	3	male	0	0
+29.0	10.5	Mrs. (Elizabeth Ramell) Nye	0	2	female	0	1
+16.0	7.8292	Miss. Hanora O'Leary	0	3	female	0	1
+18.0	6.75	Miss. Hanora Hegarty	0	3	female	0	0
+24.0	73.5	Mr. Leonard Mark Hickman	0	2	male	2	0
+27.0	7.8958	Mr. Alexander Radeff	0	3	male	0	0
+32.0	15.5	Mrs. John (Catherine) Bourke	1	3	female	1	0
+23.0	13.0	Mr. George Floyd Eitemiller	0	2	male	0	0
+58.0	113.275	Mr. Arthur Webster Newell	2	1	male	0	0
+50.0	133.65	Dr. Henry William Frauenthal	0	1	male	2	1
+40.0	7.225	Mr. Mohamed Badt	0	3	male	0	0
+47.0	25.5875	Mr. Edward Pomeroy Colley	0	1	male	0	0
+19.0	8.1583	Mr. Ernest James Crease	0	3	male	0	0
+36.0	7.4958	Mr. Peju Coleff	0	3	male	0	0
+20.0	7.925	Mr. Eino William Lindqvist	0	3	male	1	1
+32.0	73.5	Mr. Lewis Hickman	0	2	male	2	0
+25.0	13.0	Mr. Reginald Fenton Butler	0	2	male	0	0
+49.0	7.775	Mr. Knud Paust Rommetvedt	0	3	male	0	0
+43.0	8.05	Mr. Jacob Cook	0	3	male	0	0
+48.0	52.0	Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor	0	1	female	1	1
+40.0	39.0	Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown	1	2	female	1	1
+31.0	52.0	Mr. Thornton Davidson	0	1	male	1	0
+70.0	10.5	Mr. Henry Michael Mitchell	0	2	male	0	0
+17.0	7.925	Miss. Erna Alexandra Andersson	2	3	female	4	1
+31.0	13.0	Mr. Charles Wilhelms	0	2	male	0	1
+19.0	0.0	Mr. Ennis Hastings Watson	0	2	male	0	0
+18.0	7.775	Mr. Gustaf Hjalmar Edvardsson	0	3	male	0	0
+24.5	8.05	Mr. Frederick Charles Sawyer	0	3	male	0	0
+18.0	9.8417	Miss. Anna Sofia Turja	0	3	female	0	1
+43.0	46.9	Mrs. Frederick (Augusta Tyler) Goodwin	6	3	female	1	0
+36.0	512.3292	Mr. Thomas Drake Martinez Cardeza	1	1	male	0	1
+28.0	8.1375	Miss. Katie Peters	0	3	female	0	0
+27.0	76.7292	Mr. Hammad Hassab	0	1	male	0	1
+20.0	9.225	Mr. Thor Anderson Olsvigen	0	3	male	0	0
+26.0	8.6625	Mr. Vincenz Kink	0	3	male	2	0
+14.0	46.9	Mr. Charles Edward Goodwin	2	3	male	5	0
+60.0	39.0	Mr. Thomas William Solomon Brown	1	2	male	1	0
+25.0	41.5792	Mr. Joseph Philippe Lemercier Laroche	2	2	male	1	0
+14.0	39.6875	Mr. Jaako Arnold Panula	1	3	male	4	0
+19.0	10.1708	Mr. Branko Dakic	0	3	male	0	0
+18.0	7.7958	Mr. Eberhard Thelander Fischer	0	3	male	0	0
+15.0	211.3375	Miss. Georgette Alexandra Madill	1	1	female	0	1
+31.0	57.0	Mr. Albert Adrian Dick	0	1	male	1	1
+4.0	13.4167	Miss. Manca Karun	1	3	female	0	1
+37.0	56.4958	Mr. Ali Lam	0	3	male	0	1
+32.0	10.5	Mr. Stephen Curnow Jenkin	0	2	male	0	0
+25.0	7.225	Mr. Khalil Saad	0	3	male	0	0
+60.0	26.55	Col. John Weir	0	1	male	0	0
+52.0	13.5	Mr. Charles Henry Chapman	0	2	male	0	0
+44.0	8.05	Mr. James Kelly	0	3	male	0	0
+19.0	7.7333	Miss. Katherine Mullens	0	3	female	0	1
+49.0	110.8833	Mr. John Borland Thayer	1	1	male	1	0
+42.0	7.65	Mr. Adolf Mathias Nicolai Olsen Humblen	0	3	male	0	0
+18.0	227.525	Mrs. John Jacob (Madeleine Talmadge Force) Astor	0	1	female	1	1
+35.0	26.2875	Mr. Spencer Victor Silverthorne	0	1	male	0	1
+18.0	14.4542	Miss. Saiide Barbara	1	3	female	0	0
+2.0	21.075	Master. Gosta Leonard Palsson	1	3	male	3	0
+16.0	46.9	Miss. Lillian Amy Goodwin	2	3	female	5	0
+25.0	7.7417	Mr. Martin Gallagher	0	3	male	0	0
+26.0	7.8542000000000005	Mr. Henrik Juul Hansen	0	3	male	1	0
+39.0	26.0	Mr. Henry Samuel Morley	0	2	male	0	0
+45.0	13.5	Mrs. Florence Kelly	0	2	female	0	1
+42.0	26.2875	Mr. Edward Pennington Calderhead	0	1	male	0	1
+22.0	151.55	Miss. Alice Cleaver	0	1	female	0	1
+4.0	15.2458	Master. Halim Gonios Moubarek	1	3	male	1	1
+24.0	49.5042	Mlle. Berthe Antonine Mayne	0	1	female	0	1
+41.0	26.55	Mr. Herman Klaber	0	1	male	0	0
+48.0	52.0	Mr. Elmer Zebley Taylor	0	1	male	1	1
+21.0	73.5	Mr. Ambrose Jr Hood	0	2	male	0	0
+29.0	9.4833	Mr. August Viktor Larsson	0	3	male	0	0
+52.0	13.0	Mr. Samuel Greenberg	0	2	male	0	0
+19.0	7.65	Mr. Peter Andreas Lauritz Andersen Soholt	0	3	male	0	0
+38.0	227.525	Miss. Caroline Louise Endres	0	1	female	0	1
+27.0	10.5	Miss. Edwina Celia Troutt	0	2	female	0	1
+33.0	7.775	Mr. Malkolm Joackim Johnson	0	3	male	0	0
+6.0	33.0	Miss. Annie Jessie Harper	1	2	female	0	1
+17.0	7.0542	Mr. Svend Lauritz Jensen	0	3	male	1	0
+34.0	13.0	Mr. William Henry Gillespie	0	2	male	0	0
+50.0	13.0	Mr. Henry Price Hodges	0	2	male	0	0
+26.0	14.4542	Mr. Apostolos Chronopoulos	0	3	male	1	0
+27.0	53.1	Mr. Norman Campbell Chambers	0	1	male	1	1
+20.0	8.6625	Mr. Luka Oreskovic	0	3	male	0	0
+30.0	21.0	Mrs. Peter Henry (Lillian Jefferys) Renouf	0	2	female	3	1
+28.0	7.7375	Miss. Margareth Mannion	0	3	female	0	1
+25.0	26.0	Mr. Kurt Arnold Gottfrid Bryhl	0	2	male	1	0
+25.0	7.925	Miss. Pieta Sofia Ilmakangas	0	3	female	1	0
+29.0	211.3375	Miss. Elisabeth Walton Allen	0	1	female	0	1
+11.0	18.7875	Mr. Houssein G N Hassan	0	3	male	0	0
+41.0	0.0	Mr. Robert J Knight	0	2	male	0	0
+23.0	13.0	Mr. William John Berriman	0	2	male	0	0
+32.0	56.4958	Mr. Lee Bing	0	3	male	0	1
+23.0	13.0	Mr. Moses Aaron Troupiansky	0	2	male	0	0
+28.5	16.1	Mr. Leslie Williams	0	3	male	0	0
+48.0	34.375	Mrs. Edward (Margaret Ann Watson) Ford	3	3	female	1	0
+35.0	512.3292	Mr. Gustave J Lesurer	0	1	male	0	1
+20.0	7.8958	Mr. Kanio Ivanoff	0	3	male	0	0
+32.0	7.8958	Mr. Minko Nankoff	0	3	male	0	0
+45.0	30.0	Mr. Walter James Hawksford	0	1	male	0	1
+36.0	78.85	Mr. Tyrell William Cavendish	0	1	male	1	0
+21.0	262.375	Miss. Susan Parker Ryerson	2	1	female	2	1
+24.0	16.1	Mr. Neal McNamee	0	3	male	1	0
+25.0	7.65	Mr. Sigurd Hansen Moen	0	3	male	0	0
+31.0	7.925	Mr. Juho Stranden	0	3	male	0	1
+70.0	71.0	Capt. Edward Gifford Crosby	1	1	male	1	0
+16.0	20.25	Mr. Rossmore Edward Abbott	1	3	male	1	0
+30.0	13.0	Miss. Anna Sinkkonen	0	2	female	0	1
+19.0	53.1	Mr. Daniel Warner Marvin	0	1	male	1	0
+31.0	7.75	Mr. Michael Connaghton	0	3	male	0	0
+4.0	23.0	Miss. Joan Wells	1	2	female	1	1
+6.0	12.475	Master. Meier Moor	1	3	male	0	1
+33.0	9.5	Mr. Johannes Joseph Vande Velde	0	3	male	0	0
+23.0	7.8958	Mr. Lalio Jonkoff	0	3	male	0	0
+23.0	7.8958	Mr. Ivan Staneff	0	3	male	0	0
+48.0	65.0	Mrs. Samuel (Jane Laver) Herman	2	2	female	1	1
+0.67	14.5	Master. Viljo Hamalainen	1	2	male	1	1
+28.0	7.7958	Mr. August Sigfrid Carlsson	0	3	male	0	0
+18.0	11.5	Mr. Percy Andrew Bailey	0	2	male	0	0
+34.0	8.05	Mr. Thomas Leonard Theobald	0	3	male	0	0
+33.0	86.5	the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes	0	1	female	0	1
+23.0	14.5	Mr. John Garfirth	0	3	male	0	0
+41.0	7.125	Mr. Iisakki Antino Aijo Nirva	0	3	male	0	0
+20.0	7.2292	Mr. Hanna Assi Barah	0	3	male	0	1
+36.0	120.0	Mrs. William Ernest (Lucile Polk) Carter	2	1	female	1	1
+28.0	8.05	Mr. Rahamin Haim Moutal	0	3	male	0	0
+16.0	7.775	Mr. Hans Linus Eklund	0	3	male	0	0
+51.0	77.9583	Mrs. John C (Anna Andrews) Hogeboom	0	1	female	1	1
+46.0	39.6	Dr. Arthur Jackson Brewe	0	1	male	0	0
+30.5	7.75	Miss. Mary Mangan	0	3	female	0	0
+28.0	24.15	Mr. Daniel J Moran	0	3	male	1	0
+32.0	8.3625	Mr. Daniel Danielsen Gronnestad	0	3	male	0	0
+24.0	9.5	Mr. Rene Aime Lievens	0	3	male	0	0
+48.0	7.8542000000000005	Mr. Niels Peder Jensen	0	3	male	0	0
+57.0	10.5	Mrs. (Mary) Mack	0	2	female	0	0
+29.0	7.225	Mr. Dibo Elias	0	3	male	0	0
+0.8300000000000001	29.0	Master. Alden Gates Caldwell	2	2	male	0	1
+54.0	23.0	Mrs. Elizabeth (Eliza Needs) Hocking	3	2	female	1	1
+18.0	7.75	Mr. Pehr Fabian Oliver Malkolm Myhrman	0	3	male	0	0
+20.0	7.75	Mr. Roger Tobin	0	3	male	0	0
+5.0	12.475	Miss. Virginia Ethel Emanuel	0	3	female	0	1
+22.0	7.7375	Mr. Thomas J Kilgannon	0	3	male	0	0
+43.0	211.3375	Mrs. Edward Scott (Elisabeth Walton McMillan) Robert	1	1	female	0	1
+13.0	7.2292	Miss. Banoura Ayoub	0	3	female	0	1
+17.0	57.0	Mrs. Albert Adrian (Vera Gillespie) Dick	0	1	female	1	1
+29.0	30.0	Mr. Milton Clyde Long	0	1	male	0	0
+35.0	23.45	Mr. Andrew G Johnston	2	3	male	1	0
+30.0	12.475	Miss. Elizabeth Dowdell	0	3	female	0	1
+25.0	7.05	Mr. William Ali	0	3	male	0	0
+25.0	7.25	Mr. Abraham (David Lishin) Harmer	0	3	male	0	0
+18.0	7.4958	Miss. Anna Sofia Sjoblom	0	3	female	0	1
+8.0	29.125	Master. George Hugh Rice	1	3	male	4	0
+1.0	20.575	Master. Bertram Vere Dean	2	3	male	1	1
+46.0	79.2	Mr. Benjamin Guggenheim	0	1	male	0	0
+20.0	7.75	Mr. Andrew Keane	0	3	male	0	0
+16.0	26.0	Mr. Alfred Gaskell	0	2	male	0	0
+21.0	69.55	Miss. Stella Anna Sage	2	3	female	8	0
+43.0	30.6958	Mr. William Fisher Hoyt	0	1	male	0	0
+22.0	9.0	Mr. Achille Waelens	0	3	male	0	0
+25.0	7.8958	Mr. Ristiu Dantcheff	0	3	male	0	0
+39.0	13.0	Mr. Richard Otter	0	2	male	0	0
+49.0	25.9292	Dr. Alice (Farnham) Leader	0	1	female	0	1
+31.0	8.6833	Mrs. Mara Osman	0	3	female	0	1
+30.0	7.2292	Mr. Yousseff Ibrahim Shawah	0	3	male	0	0
+30.0	24.15	Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe	1	3	female	1	0
+34.0	13.0	Mr. Martin Ponesell	0	2	male	0	0
+31.0	26.25	Mrs. Harvey (Charlotte Annie Tate) Collyer	1	2	female	1	1
+11.0	120.0	Master. William Thornton II Carter	2	1	male	1	1
+0.42	8.5167	Master. Assad Alexander Thomas	1	3	male	0	1
+27.0	11.1333	Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson	2	3	female	0	1
+29.0	9.5	Mr. Jan Baptist Sheerlinck	0	3	male	0	1
+27.0	6.975	Mr. Oskar Arvid Hedman	0	3	male	0	1
+31.0	7.775	Mr. Karl Johan Johansson	0	3	male	0	0
+39.0	0.0	Mr. Thomas Jr Andrews	0	1	male	0	0
+18.0	7.775	Miss. Ellen Natalia Pettersson	0	3	female	0	0
+39.0	13.0	Mr. August Meyer	0	2	male	0	0
+33.0	53.1	Mrs. Norman Campbell (Bertha Griggs) Chambers	0	1	female	1	1
+26.0	7.8875	Mr. William Alexander	0	3	male	0	0
+39.0	24.15	Mr. James Lester	0	3	male	0	0
+35.0	10.5	Mr. Richard James Slemen	0	2	male	0	0
+6.0	31.275	Miss. Ebba Iris Alfrida Andersson	2	3	female	4	0
+31.0	7.7875	Miss. Brigdet Delia McDermott	0	3	female	0	1
+30.5	8.05	Mr. Ernest Portage Tomlin	0	3	male	0	0
+39.0	0.0	Mr. Richard Fry	0	1	male	0	0
+23.0	7.925	Miss. Wendla Maria Heininen	0	3	female	0	0
+31.0	37.0042	Mr. Albert Mallet	1	2	male	1	0
+43.0	6.45	Mr. John Fredrik Alexander Holm	0	3	male	0	0
+10.0	27.9	Master. Karl Thorsten Skoog	2	3	male	3	0
+52.0	93.5	Mrs. Charles Melville (Clara Jennings Gregg) Hays	1	1	female	1	1
+27.0	8.6625	Mr. Nikola Lulic	0	3	male	0	1
+38.0	0.0	Jonkheer. John George Reuchlin	0	1	male	0	0
+27.0	12.475	Mrs. (Beila) Moor	1	3	female	0	1
+28.0	47.1	Mr. Francisco M Carrau	0	1	male	0	0
+2.0	39.6875	Master. Urho Abraham Panula	1	3	male	4	0
+36.0	6.95	Mr. John Flynn	0	3	male	0	0
+23.0	56.4958	Mr. Len Lam	0	3	male	0	0
+1.0	37.0042	Master. Andre Mallet	2	2	male	0	1
+19.0	7.75	Mr. Thomas Joseph McCormack	0	3	male	0	1
+62.0	80.0	Mrs. George Nelson (Martha Evelyn) Stone	0	1	female	0	1
+15.0	14.4542	Mrs. Antoni (Selini Alexander) Yasbeck	0	3	female	1	1
+0.8300000000000001	18.75	Master. George Sibley Richards	1	2	male	1	1
+30.0	7.2292	Mr. Amin Saad	0	3	male	0	0
+23.0	7.8542000000000005	Mr. Albert Augustsson	0	3	male	0	0
+17.0	10.5	Miss. Bertha Ilett	0	2	female	0	1
+18.0	8.3	Mr. Owen George Allum	0	3	male	0	0
+39.0	83.1583	Miss. Sara Rebecca Compton	1	1	female	1	1
+21.0	8.6625	Mr. Jakob Pasic	0	3	male	0	0
+20.0	8.05	Mr. Maurice Sirota	0	3	male	0	0
+32.0	56.4958	Mr. Chang Chip	0	3	male	0	1
+29.0	29.7	Mr. Pierre Marechal	0	1	male	0	1
+20.0	7.925	Mr. Ilmari Rudolf Alhomaki	0	3	male	0	0
+16.0	10.5	Mr. Thomas Charles Mudd	0	2	male	0	0
+30.0	31.0	Miss. Augusta Serepeca	0	1	female	0	1
+34.5	6.4375	Mr. Peter L Lemberopolous	0	3	male	0	0
+33.0	15.85	Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom	0	3	female	3	1
+17.0	8.6625	Mr. Jeso Culumovic	0	3	male	0	0
+42.0	7.55	Mr. Anthony Abbing	0	3	male	0	0
+18.0	69.55	Mr. Douglas Bullen Sage	2	3	male	8	0
+35.0	7.8958	Mr. Marin Markoff	0	3	male	0	0
+28.0	33.0	Rev. John Harper	1	2	male	0	0
+40.0	89.1042	Mrs. Samuel L (Edwiga Grabowska) Goldenberg	0	1	female	1	1
+4.0	31.275	Master. Sigvard Harald Elias Andersson	2	3	male	4	0
+74.0	7.775	Mr. Johan Svensson	0	3	male	0	0
+9.0	15.2458	Miss. Nourelain Boulos	1	3	female	1	0
+16.0	39.4	Miss. Mary Conover Lines	1	1	female	0	1
+16.0	34.375	Mr. William Neal Ford	3	3	male	1	0
+44.0	26.0	Mrs. Ernest Courtenay (Lilian Hughes) Carter	0	2	female	1	0
+18.0	9.35	Mrs. Sam (Leah Rosen) Aks	1	3	female	0	1
+45.0	164.8667	Mrs. George Dennick (Mary Hitchcock) Wick	1	1	female	1	1
+51.0	26.55	Mr. Peter Denis Daly	0	1	male	0	1
+24.0	19.2583	Mrs. Solomon (Latifa Qurban) Baclini	3	3	female	0	1
+30.0	7.2292	Mr. Raihed Razi	0	3	male	0	0
+41.0	14.1083	Mr. Claus Peter Hansen	0	3	male	2	0
+21.0	11.5	Mr. Frederick Edward Giles	0	2	male	1	0
+48.0	25.9292	Mrs. Frederick Joel (Margaret Welles Barron) Swift	0	1	female	0	1
+14.0	69.55	Miss. Dorothy Edith Sage	2	3	female	8	0
+20.0	8.05	Mr. Selman Francis Slocovski	0	3	male	0	0
+24.0	13.0	Mr. John William Gill	0	2	male	0	0
+42.0	13.0	Mrs. (Karolina) Bystrom	0	2	female	0	1
+27.0	13.8583	Miss. Asuncion Duran y More	0	2	female	1	1
+31.0	50.4958	Mr. Washington Augustus II Roebling	0	1	male	0	0
+23.0	9.5	Mr. Philemon van Melkebeke	0	3	male	0	0
+4.0	11.1333	Master. Harold Theodor Johnson	1	3	male	1	1
+26.0	7.8958	Mr. Cerin Balkic	0	3	male	0	0
+47.0	52.5542	Mrs. Richard Leonard (Sallie Monypeny) Beckwith	1	1	female	1	1
+33.0	5.0	Mr. Frans Olof Carlsson	0	1	male	0	0
+47.0	9.0	Mr. Victor Vander Cruyssen	0	3	male	0	0
+23.0	263.0	Miss. Mabel Helen Fortune	2	1	female	3	1
+28.0	24.0	Mrs. Samuel (Hannah Wizosky) Abelson	0	2	female	1	1
+15.0	7.225	Miss. Adele Kiamie Najib	0	3	female	0	1
+20.0	9.8458	Mr. Alfred Ossian Gustafsson	0	3	male	0	0
+19.0	7.8958	Mr. Nedelio Petroff	0	3	male	0	0
+23.0	7.8958	Mr. Kristo Laleff	0	3	male	0	0
+56.0	83.1583	Mrs. Thomas Jr (Lily Alexenia Wilson) Potter	1	1	female	0	1
+25.0	26.0	Mrs. William (Imanita Parrish Hall) Shelley	1	2	female	0	1
+33.0	7.8958	Mr. Johann Markun	0	3	male	0	0
+22.0	10.5167	Miss. Gerda Ulrika Dahlberg	0	3	female	0	0
+28.0	10.5	Mr. Frederick James Banfield	0	2	male	0	0
+24.0	8.05	Mr. Francesco Celotti	0	3	male	0	0
+25.0	7.05	Mr. Henry Jr Sutehall	0	3	male	0	0
+39.0	29.125	Mrs. William (Margaret Norton) Rice	5	3	female	0	0
+27.0	13.0	Rev. Juozas Montvila	0	2	male	0	0
+19.0	30.0	Miss. Margaret Edith Graham	0	1	female	0	1
+7.0	23.45	Miss. Catherine Helen Johnston	2	3	female	1	0
+26.0	30.0	Mr. Karl Howell Behr	0	1	male	0	1
+32.0	7.75	Mr. Patrick Dooley	0	3	male	0	0
+29.0	8.05	Mr. Emil Christmann	0	3	male	0	0
+14.0	30.0708	Mrs. Nicholas (Adele Achem) Nasser	0	2	female	1	1
+20.0	7.8542000000000005	Mr. Paul Edvin Andreasson	0	3	male	0	0
+46.0	61.175	Mr. Herbert Fuller Chaffee	0	1	male	1	0
+26.0	20.575	Mr. Bertram Frank Dean	2	3	male	1	0
+59.0	7.25	Mr. Daniel Coxon	0	3	male	0	0
+22.0	8.05	Mr. Charles Joseph Shorney	0	3	male	0	0
+71.0	34.6542	Mr. George B Goldschmidt	0	1	male	0	0
+23.0	63.3583	Mr. William Bertram Greenfield	1	1	male	0	1
+34.0	23.0	Mrs. John T (Ada Julia Bone) Doling	1	2	female	0	1
+34.0	26.0	Mr. Sinai Kantor	0	2	male	1	0
+28.0	7.8958	Miss. Matilda Petranec	0	3	female	0	0
